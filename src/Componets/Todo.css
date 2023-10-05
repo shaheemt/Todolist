@@ -1,0 +1,25 @@
+.container{
+    width: 40%;
+    margin-top:50px;
+    background-color: brown;
+    padding: 30px;
+    /* text-align: center; */
+    /* justify-content: center; */
+
+}.container li{
+    background-color: #181616;
+    color: #fff;
+    padding: 10px;
+    width: 70%;
+    margin-bottom: 5px;
+}.icon{
+    padding: 10px;
+    color: aliceblue;
+    float: right;
+}.container input{
+    background-color: black;
+    color: #fff;
+}#item{
+    text-decoration: line-through;
+    opacity:0.5;
+}
